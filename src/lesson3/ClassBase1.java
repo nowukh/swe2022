@@ -8,5 +8,9 @@ public class ClassBase1 {
         System.out.println(c1.getName());
         System.out.println(c2.getName());
         System.out.println(c3.getName());
+        System.out.println(c1.getFriendsName());
+
+        NoCont noCont = new NoCont();
+
     }
 }
