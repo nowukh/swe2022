@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class Constructor {
 
-    private final String firstName;
+    final String firstName;
     private final String lastName;
     private String seperator; //초기화
     private ArrayList<String> friendsName;

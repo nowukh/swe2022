@@ -11,6 +11,7 @@ public class ClassBase1 {
         System.out.println(c1.getFriendsName());
 
         NoCont noCont = new NoCont();
-
+        System.out.println(noCont.getFirstName(c2));
+        System.out.println(c2.firstName);
     }
 }
