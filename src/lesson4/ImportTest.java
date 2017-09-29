@@ -5,9 +5,9 @@ import lesson4.sample.Imported;
 
 
 public class ImportTest {
-    static public void main{
+    static public void main(String[] arg){
         System.out.println(lesson4.sample.Imported.getText());
         System.out.println(Imported.getText());
-        StaticInnerClass.Class2 class2 = new StaticInnerClass.Class2();
+        StaticNestedClass.Class2 class2 = new StaticNestedClass.Class2();
     }
 }
