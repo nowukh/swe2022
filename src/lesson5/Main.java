@@ -1,5 +1,8 @@
 package lesson5;
 
+import java.lang.reflect.Array;
+import java.util.Arrays;
+
 public class Main {
     static public void main(String[] arg){
         Customer customer = new Customer();
@@ -10,5 +13,10 @@ public class Main {
 
         Employee me = new Employee(100), you = new Employee(200);
         System.out.println(me.compareTo(you));
+        System.out.println(Competition.compare(you, me));
+
+        Employee[] employees = {me, you};
+        Arrays.sort(employees);
+        System.out.println(employees[0]);
     }
 }
