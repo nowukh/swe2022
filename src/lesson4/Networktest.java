@@ -15,7 +15,7 @@ public class Networktest {
         Network2 n2 = new Network2();
         Network2.Member a = n1.enroll("a");
         a.leave();
-        Network2.Member b - new Network2.Member(n1,"b")
-        Network2.Member c - new Network2.Member(n2,"c")
+        Network2.Member b = new Network2.Member(n1,"b");
+        Network2.Member c = new Network2.Member(n2,"c");
     }
 }
