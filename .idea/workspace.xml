@@ -7,40 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70d639f0-0b6d-4d68-ab47-ad40e1fc6f80" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson7/IntSequence.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson7/LocalClassTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/c0915/ControlState.class" afterPath="$PROJECT_DIR$/out/production/swe2022/c0915/ControlState.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/c0915/HelloWorld.class" afterPath="$PROJECT_DIR$/out/production/swe2022/c0915/HelloWorld.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson3/Child.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson3/Child.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson3/ClassBase0.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson3/ClassBase0.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson3/ClassBase1.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson3/ClassBase1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson3/Constructor.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson3/Constructor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson3/NoCont.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson3/NoCont.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson3/Parent.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson3/Parent.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson3/Static.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson3/Static.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson4/ImportTest.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson4/ImportTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson4/Networktest.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson4/Networktest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson4/StaticNestedClass$Class1.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson4/StaticNestedClass$Class1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson4/StaticNestedClass$Class2.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson4/StaticNestedClass$Class2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson4/StaticNestedClass.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson4/StaticNestedClass.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson4/network/Network$Member.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson4/network/Network$Member.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson4/network/Network.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson4/network/Network.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson4/network/Network2$Member.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson4/network/Network2$Member.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson4/network/Network2.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson4/network/Network2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson4/sample/Imported.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson4/sample/Imported.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson5/Account.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson5/Account.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson5/Banker.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson5/Banker.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson5/Competition.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson5/Competition.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson5/Currency.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson5/Currency.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson5/Customer$Deposit.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson5/Customer$Deposit.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson5/Customer.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson5/Customer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson5/DepositRequest.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson5/DepositRequest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson5/Employee.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson5/Employee.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson5/Main.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson5/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson5/Money.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson5/Money.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson5/Request.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson5/Request.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson7/LocalClassTest.java" afterPath="$PROJECT_DIR$/src/lesson7/LocalClassTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,8 +23,8 @@
       <file leaf-file-name="LocalClassTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/lesson7/LocalClassTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="39" lean-forward="false" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+            <state relative-caret-position="247">
+              <caret line="13" column="35" lean-forward="false" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -436,7 +404,14 @@
       <option name="project" value="LOCAL" />
       <updated>1506055826279</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="lesson7 localTest">
+      <created>1509681800215</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1509681800215</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView">
@@ -542,7 +517,8 @@
     <MESSAGE value="create class HelloWorld &#10;set main" />
     <MESSAGE value="lesson3 //first commit" />
     <MESSAGE value="lesson3 // ~constructor" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson3 // ~constructor" />
+    <MESSAGE value="lesson7 localTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson7 localTest" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -887,8 +863,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lesson7/LocalClassTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="39" lean-forward="false" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+        <state relative-caret-position="247">
+          <caret line="13" column="35" lean-forward="false" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
           <folding />
         </state>
       </provider>
