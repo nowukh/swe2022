@@ -7,8 +7,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70d639f0-0b6d-4d68-ab47-ad40e1fc6f80" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson7/IntSequence.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson7/LocalClassTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/c0915/ControlState.class" afterPath="$PROJECT_DIR$/out/production/swe2022/c0915/ControlState.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/c0915/HelloWorld.class" afterPath="$PROJECT_DIR$/out/production/swe2022/c0915/HelloWorld.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson3/Child.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson3/Child.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson3/ClassBase0.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson3/ClassBase0.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson3/ClassBase1.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson3/ClassBase1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson3/Constructor.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson3/Constructor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson3/NoCont.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson3/NoCont.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson3/Parent.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson3/Parent.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson3/Static.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson3/Static.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson4/ImportTest.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson4/ImportTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson4/Networktest.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson4/Networktest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson4/StaticNestedClass$Class1.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson4/StaticNestedClass$Class1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson4/StaticNestedClass$Class2.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson4/StaticNestedClass$Class2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson4/StaticNestedClass.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson4/StaticNestedClass.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson4/network/Network$Member.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson4/network/Network$Member.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson4/network/Network.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson4/network/Network.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson4/network/Network2$Member.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson4/network/Network2$Member.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson4/network/Network2.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson4/network/Network2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson4/sample/Imported.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson4/sample/Imported.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson5/Account.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson5/Account.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson5/Banker.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson5/Banker.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson5/Competition.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson5/Competition.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson5/Currency.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson5/Currency.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson5/Customer$Deposit.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson5/Customer$Deposit.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson5/Customer.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson5/Customer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson5/DepositRequest.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson5/DepositRequest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson5/Employee.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson5/Employee.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson5/Main.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson5/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson5/Money.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson5/Money.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/swe2022/lesson5/Request.class" afterPath="$PROJECT_DIR$/out/production/swe2022/lesson5/Request.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson6/FunctionalMain.java" afterPath="$PROJECT_DIR$/src/lesson6/FunctionalMain.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,89 +51,35 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.6047138">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/lesson6/Main.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="450">
-                  <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                    <element signature="e#181#182#0" expanded="true" />
-                    <element signature="e#249#250#0" expanded="true" />
-                    <element signature="e#423#424#0" expanded="true" />
-                    <element signature="e#484#485#0" expanded="true" />
-                    <element signature="e#633#634#0" expanded="true" />
-                    <element signature="e#685#686#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="FunctionalMain.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/lesson6/FunctionalMain.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="330">
-                  <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/lesson6/Employee.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="60">
-                  <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-                  <folding>
-                    <element signature="e#92#93#0" expanded="true" />
-                    <element signature="e#118#119#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="EmployeeTest.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/lesson6/EmployeeTest.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="75">
-                  <caret line="6" column="31" lean-forward="false" selection-start-line="5" selection-start-column="44" selection-end-line="6" selection-end-column="31" />
-                  <folding>
-                    <element signature="e#159#160#0" expanded="true" />
-                    <element signature="e#197#198#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Predicate.java" pinned="false" current-in-tab="true">
-            <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/function/Predicate.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="900">
-                  <caret line="118" column="1" lean-forward="false" selection-start-line="118" selection-start-column="1" selection-end-line="118" selection-end-column="1" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="LocalClassTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lesson7/LocalClassTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="39" lean-forward="false" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IntSequence.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lesson7/IntSequence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Singleton" />
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -149,6 +127,8 @@
         <option value="$PROJECT_DIR$/src/lesson6/Main.java" />
         <option value="$PROJECT_DIR$/src/lesson6/EmployeeTest.java" />
         <option value="$PROJECT_DIR$/src/lesson6/FunctionalMain.java" />
+        <option value="$PROJECT_DIR$/src/lesson7/IntSequence.java" />
+        <option value="$PROJECT_DIR$/src/lesson7/LocalClassTest.java" />
       </list>
     </option>
   </component>
@@ -174,6 +154,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -190,26 +172,18 @@
               <item name="swe2022" type="b2602c69:ProjectViewProjectNode" />
               <item name="swe2022" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="swe2022" type="b2602c69:ProjectViewProjectNode" />
-              <item name="swe2022" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson6" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson7" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -219,6 +193,7 @@
       <recent name="lesson4" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="lesson7" />
       <recent name="lesson5" />
       <recent name="lesson3" />
     </key>
@@ -235,7 +210,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.LocalClassTest">
     <configuration name="ClassBase0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -274,14 +249,14 @@
       <module name="swe2022" />
       <envs />
     </configuration>
-    <configuration name="ControlState" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="LocalClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="c0915.*" />
+          <option name="PATTERN" value="lesson7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="c0915.ControlState" />
+      <option name="MAIN_CLASS_NAME" value="lesson7.LocalClassTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -413,19 +388,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.ControlState" />
-      <item index="1" class="java.lang.String" itemvalue="Application.ClassBase1" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ClassBase0" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Networktest" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="0" class="java.lang.String" itemvalue="Application.ClassBase1" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ClassBase0" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Networktest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="4" class="java.lang.String" itemvalue="Application.LocalClassTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Networktest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ClassBase1" />
-        <item index="3" class="java.lang.String" itemvalue="Application.ClassBase0" />
-        <item index="4" class="java.lang.String" itemvalue="Application.ControlState" />
+        <item index="0" class="java.lang.String" itemvalue="Application.LocalClassTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Networktest" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ClassBase1" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ClassBase0" />
       </list>
     </recent_temporary>
   </component>
@@ -474,22 +449,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958034" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958034" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18628454" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18543689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958034" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12896623" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.094017096" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24969475" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -500,7 +475,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958034" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958034" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -575,20 +549,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lesson3/Constructor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="25" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson3/ClassBase1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="42" lean-forward="false" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lesson3/NoCont.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -864,20 +824,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Runnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="55" column="17" lean-forward="false" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="108" column="17" lean-forward="false" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Runnable.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Comparator.java" />
     <entry file="file://$PROJECT_DIR$/src/lesson5/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -886,80 +834,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson6/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#181#182#0" expanded="true" />
-            <element signature="e#249#250#0" expanded="true" />
-            <element signature="e#423#424#0" expanded="true" />
-            <element signature="e#484#485#0" expanded="true" />
-            <element signature="e#633#634#0" expanded="true" />
-            <element signature="e#685#686#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson6/EmployeeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="6" column="31" lean-forward="false" selection-start-line="5" selection-start-column="44" selection-end-line="6" selection-end-column="31" />
-          <folding>
-            <element signature="e#159#160#0" expanded="true" />
-            <element signature="e#197#198#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lesson6/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
+        <state relative-caret-position="76">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding>
-            <element signature="e#92#93#0" expanded="true" />
-            <element signature="e#118#119#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-15394">
-          <caret line="70" column="13" lean-forward="false" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="110" column="19" lean-forward="false" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="109" column="36" lean-forward="false" selection-start-line="109" selection-start-column="36" selection-end-line="109" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/function/Predicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="118" column="1" lean-forward="false" selection-start-line="118" selection-start-column="1" selection-end-line="118" selection-end-column="1" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Arrays.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/String.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/System.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/function/Predicate.java" />
+    <entry file="file://$PROJECT_DIR$/src/lesson6/EmployeeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="31" lean-forward="false" selection-start-line="5" selection-start-column="44" selection-end-line="6" selection-end-column="31" />
+          <folding>
+            <element signature="e#159#160#0" expanded="false" />
+            <element signature="e#197#198#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lesson6/FunctionalMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
+        <state relative-caret-position="418">
           <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson6/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson7/IntSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson7/LocalClassTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="39" lean-forward="false" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1023,6 +953,18 @@
               <list>
                 <option value="0.2" />
                 <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>9.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>
