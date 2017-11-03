@@ -8,7 +8,6 @@
   <component name="ChangeListManager">
     <list default="true" id="70d639f0-0b6d-4d68-ab47-ad40e1fc6f80" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lesson7/LocalClassTest.java" afterPath="$PROJECT_DIR$/src/lesson7/LocalClassTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -411,7 +410,14 @@
       <option name="project" value="LOCAL" />
       <updated>1509681800215</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="lesson7 localTest">
+      <created>1509682255688</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1509682255688</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView">
