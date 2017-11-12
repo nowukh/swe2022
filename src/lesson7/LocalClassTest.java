@@ -34,4 +34,4 @@ public class LocalClassTest {
         return ()->low + generator.nextInt(high - low + 1);
         }
     }
-}
+
