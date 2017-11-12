@@ -1,6 +1,6 @@
-package com.kh.ToDoApp.todoAttribute;
+package com.kh.ToDoApp.todoList;
 
-import com.kh.ToDoApp.Change;
+import com.kh.ToDoApp.inter.Change;
 
 import java.util.function.Supplier;
 
