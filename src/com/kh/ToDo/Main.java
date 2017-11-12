@@ -1,9 +1,9 @@
-package com.kh.ToDoApp;
+package com.kh.ToDo;
 
 import java.util.ArrayList;
 
-import com.kh.ToDoApp.todoList.TodoList;
-import com.kh.ToDoApp.todoList.TodoList.TodoTask;
+import com.kh.ToDo.todoList.TodoList;
+import com.kh.ToDo.todoList.TodoList.TodoTask;
 
 public class Main {
     public static void main(String[] arg){

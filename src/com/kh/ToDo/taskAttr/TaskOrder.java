@@ -1,4 +1,4 @@
-package com.kh.ToDoApp.taskAttr;
+package com.kh.ToDo.taskAttr;
 
 import java.util.Comparator;
 
