@@ -25,6 +25,15 @@ public class TodoMain {
         for(TodoTask task: group1TaskList){
             System.out.println(task.name + " " + task.createdAt + " note:" + task.note + " alram:" +
                     task.alram + " order:" + task.order + " dueTo:" + task.dueto);
+            task.deleteTask(); //task 삭제
         }
+        System.out.println(group1TaskList.size());
+
+        //그룹 삭제
+        g1.deleteTodoList();
+        System.out.println(todoList.size());
+
+
+
     }
 }
