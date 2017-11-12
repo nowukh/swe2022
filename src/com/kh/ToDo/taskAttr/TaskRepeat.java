@@ -1,4 +1,4 @@
 package com.kh.ToDo.taskAttr;
 
-public class TaskRepeat {
+public class TaskRepeat{
 }
