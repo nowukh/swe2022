@@ -7,20 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70d639f0-0b6d-4d68-ab47-ad40e1fc6f80" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/kh/ToDo/TodoList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/kh/ToDo/TodoTheme.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson9/EnumTest.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/kh/ToDo/inter/Change.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/kh/ToDo/inter/Create.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/kh/ToDo/taskAttr/TaskAlram.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/kh/ToDo/taskAttr/TaskDueTo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/kh/ToDo/taskAttr/TaskNote.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/kh/ToDo/taskAttr/TaskRepeat.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/kh/ToDo/todoList/TodoColor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/kh/ToDo/todoList/TodoIcon.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/kh/ToDo/todoList/TodoOrder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/kh/ToDo/todoList/TodoTheme.java" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/kh/ToDo/TodoMain.java" afterPath="$PROJECT_DIR$/src/com/kh/ToDo/App.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -568,7 +554,14 @@
       <option name="project" value="LOCAL" />
       <updated>1510495868484</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="[To-Do] 11.20 last commit">
+      <created>1511187545413</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1511187545413</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TodoView">
@@ -679,7 +672,8 @@
     <MESSAGE value="[To-Do] TodoMain추가, 메인에 목록 리스트 추가" />
     <MESSAGE value="[To-Do] task, 그룹 삭제 기능 추가" />
     <MESSAGE value="[To-Do] 11.12 last commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="[To-Do] 11.12 last commit" />
+    <MESSAGE value="[To-Do] 11.20 last commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="[To-Do] 11.20 last commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
