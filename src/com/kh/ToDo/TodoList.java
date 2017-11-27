@@ -1,4 +1,5 @@
 package com.kh.ToDo;
+import java.time.LocalDate;
 import java.util.*;
 
 import static com.kh.ToDo.App.todoList;
@@ -9,6 +10,7 @@ public class TodoList {
     Comparator sortBy;
     boolean showDoneTasks = false;
     TodoTheme todoTheme;
+
 
     public TodoList(String name) {
         this.name = name;
@@ -32,8 +34,8 @@ public class TodoList {
         }
     }
 
-    void addTask(String name){
-        taskList.add(new TodoTask(name));
+    void addTask(String name, LocalDate dueTo, LocalDate alram){
+        taskList.add(new TodoTask(name,dueTo,alram));
     }
 
     void deleteTodoList(){
@@ -45,29 +47,33 @@ public class TodoList {
     }
 
     class TodoTask {
-
         String name;
-        Date createdAt = new Date();
-        Date dueTo;
+        LocalDate createdAt = LocalDate.now();
+        LocalDate dueTo;
         boolean todaysTask = false;
         boolean isDone = false;
-        boolean alram = false;
+        LocalDate alram=null;
         TodoTask(String name) {
             this.name = name;
+        }
+        TodoTask(String name, LocalDate dueTo, LocalDate alram) {
+            this.name = name;
+            this.dueTo = dueTo;
+            this.alram = alram;
         }
 
         void setName(String name){
             this.name = name;
         }
 
-        void setDueTo(Date d){
+        void setDueTo(LocalDate d){
             this.dueTo = d;
         }
         class myTask extends TimerTask{
             @Override
             public void run() {
-                if(alram){
-                    int result = dueTo.compareTo(new Date());
+                if(alram==null){
+                    int result = dueTo.compareTo(LocalDate.now());
                     if(result >= 0){
                         System.out.println("알람");
                     }
@@ -81,6 +87,5 @@ public class TodoList {
         public String toString() {
             return "name: " + this.name + ", createdAt: " + createdAt.toString()+"\n";
         }
-
     }
 }
