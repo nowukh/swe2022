@@ -1,10 +1,11 @@
 package com.kh.ToDo;
+
+
+import java.io.Serializable;
 import java.time.LocalDate;
 import java.util.*;
 
-import static com.kh.ToDo.App.todoList;
-
-public class TodoList {
+public class TodoList implements Serializable {
     ArrayList<TodoTask> taskList = new ArrayList<>();
     String name;
     Comparator sortBy;
@@ -38,15 +39,15 @@ public class TodoList {
         taskList.add(new TodoTask(name,dueTo,alram));
     }
 
-    void deleteTodoList(){
-        todoList.remove(this);
-    }
+//    void deleteTodoList(){
+//        todoList.remove(this);
+//    }
 
     void setSortBy(Comparator c){
         Collections.sort(taskList, c);
     }
 
-    class TodoTask {
+    class TodoTask implements Serializable {
         String name;
         LocalDate createdAt = LocalDate.now();
         LocalDate dueTo;

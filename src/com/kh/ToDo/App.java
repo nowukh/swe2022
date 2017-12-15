@@ -1,20 +1,27 @@
 package com.kh.ToDo;
 
+import java.io.IOException;
+import java.io.ObjectInputStream;
+import java.io.ObjectOutputStream;
+import java.io.Serializable;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class App {
-    public static ArrayList<TodoList> todoList = new ArrayList<>();
-    public static void addList(String name){
+public class App implements Serializable{
+    public  ArrayList<TodoList> todoList = new ArrayList<>();
+    public  void addList(String name){
         todoList.add(new TodoList(name));
     }
-    static void showTodoList(ArrayList<TodoList> todos) {
+     void showTodoList(ArrayList<TodoList> todos) {
         for (TodoList todo : todos) {
             System.out.println("-" + todo.name + " " + todo.taskList.size());
         }
     }
-    static TodoList getTodoList(ArrayList<TodoList> todos, String listName){
+     TodoList getTodoList(ArrayList<TodoList> todos, String listName){
         for (TodoList todo : todos) {
             if(todo.name.equals(listName)){
                 for(TodoList.TodoTask task : todo.taskList){
@@ -31,7 +38,7 @@ public class App {
             }
         }return null;
     }
-    static void setDone(TodoList li, String name){
+     void setDone(TodoList li, String name){
         for(TodoList.TodoTask task : li.taskList){
             if(task.name.equals(name)){
                 if(task.isDone){
@@ -43,62 +50,28 @@ public class App {
         }
     }
 
-    public static void main(String[] arg){
-        addList("오늘 할일");
-        addList("Todo");
-        addList("과제1");
-        for(TodoList li : todoList){
-            li.addTask(li.name + "의 할일1", null,null);
-            li.addTask(li.name + "의 할일2", null,null);
-            li.addTask(li.name + "의 할일3", null,null);
-        }
+    void save() throws IOException{
+     try{
+        Path p = Paths.get("c:/test", "obj.txt");
+        if (!Files.exists(p)) Files.createFile(p);
+        ObjectOutputStream out = new ObjectOutputStream(Files.newOutputStream(p));
+        out.reset();
+        out.writeObject(this);
+        } catch (Exception e) {
+         e.printStackTrace();
+     }
+    }
 
-        Scanner in = new Scanner(System.in).useDelimiter("\\n");
-        TodoList li = null;
-        exit:
-        while (true) {
-            showTodoList(todoList);
-            in.reset();
-            System.out.print("Enter: ");
-
-            inputCommand:
-            while (in.hasNext()) {
-                String command = in.nextLine();
-                String[] commandList = command.split(":");
-
-                switch (commandList[0]) {
-                    case "exit":
-                        break exit;
-                    case "addList":
-                        addList(commandList[1]);
-                        break inputCommand;
-                    case "list":
-                        System.out.println(commandList[1]);
-                        li = getTodoList(todoList, commandList[1]);
-                        System.out.println(li);
-                        break inputCommand;
-                    case "addTodo":
-                        String[] taskOption = commandList[1].split(",");
-                            if(taskOption.length == 1){
-                                li.addTask(taskOption[0],null,null);
-                            }else{
-
-                                String[] dateString = taskOption[1].split("\\.");
-                                li.addTask(taskOption[0],LocalDate.of(Integer.parseInt(dateString[0]), Integer.parseInt(dateString[1]), Integer.parseInt(dateString[2])),
-                                        null);
-                            }
-                        getTodoList(todoList, li.name);
-                        break inputCommand;
-                    case "complete":
-                        setDone(li, commandList[1]);
-                        getTodoList(todoList, li.name);
-                        break inputCommand;
-                    case "incomplete":
-                        setDone(li, commandList[1]);
-                        getTodoList(todoList, li.name);
-                        break inputCommand;
-                }
-            }
+    App load() throws IOException{
+        try {
+            Path p = Paths.get("c:/test", "obj.txt");
+            ObjectInputStream in = new ObjectInputStream(Files.newInputStream(p));
+            return (App) in.readObject();
+        } catch (Exception e) {
+            e.printStackTrace();
+            return null;
         }
     }
-}
+    }
+
+
